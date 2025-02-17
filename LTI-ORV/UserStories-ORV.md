@@ -13,6 +13,8 @@ Intenté los mismos prompts en 2 asistentes (Claude y Grok) y elegí Grok
   - Claude puso todas las tareas en paralelo lo cual no es real. El ticket de QA es el que terminó primero que todos. **Aqui tuve que iterar el prompt** para enfatizar que las tareas tienen un proceso de integración y que el QA tiene probar dicha integración también
   - Grok añadió las tareas y priorizó en base a entregar valor más rápido
 
+### En el proceso adjunté el .md del ejercicio anterior con algunas mejoras que comentó Daniel en la 3ra sesión
+
 3 User stories
 ---
 >Como product owner, teniendo en cuenta el documento adjunto, genera 3 user stories siguiendo este template:
@@ -211,3 +213,10 @@ gantt
 - La prueba y QA se colocan después de la implementación principal porque, aunque son críticas, deben realizarse una vez que el código base esté en un estado funcional.
 
 Este plan permite una implementación rápida de la funcionalidad básica mientras asegura la calidad del producto con pruebas y QA.
+
+Conclusiones
+---
+
+Fue interesante comparar 2 asistentes para evaluar el resultado obtenido (recomendación hecha en la clase) y gracias a ello tengo un favorito: Grok
+La principal razón de mi elección es que es más conciso: los tickets de trabajo fueron más sintentizados y ligados a la realidad, manteniendo el contexto del PRD sin problemas.
+Esta experiencia sienta las bases para futuras automatizaciones en mi equipo de trabajo a futuro.
